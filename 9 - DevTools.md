@@ -1,0 +1,1 @@
+ferramenta F12 no chrome
